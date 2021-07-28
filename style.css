@@ -1,0 +1,45 @@
+/*-----------------------
+ Css Style Sheets Start
+ -----------------------  */
+
+ /* Header Css Start  */
+ .header-bg-color{
+     background-color: #264653;
+ }
+
+ .nav-text-color{
+     color: white;
+ }
+
+ #header-login{
+    background-color: #E76F51;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 100px;
+ }
+
+ .header-discription{
+     font-size: 14px;
+     font-weight: 300;
+ }
+
+ .header-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+ }
+
+ #header-button{
+     background-color: #E76F51;
+ }
+
+ .section-gap{
+    padding-top: 70px; 
+    padding-bottom: 70px;
+ }
+/*-----------------------
+ Css Style Sheets End 
+ ---------------------*/
