@@ -40,6 +40,52 @@
     padding-top: 70px; 
     padding-bottom: 70px;
  }
+ /* Header Css End  */
+
+  /* Fetured Bikes Section */
+.future-bike-title{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    
+}
+ .hr-tag{
+     margin-left: 48%;
+     color: #ff3300;
+     margin-bottom: 100px;
+ }
+
+.bike-grayScale{
+    filter: grayscale(90%);
+   
+}
+.bike-section-gap{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+/* Future Bike Section End  */
+
+/* Happy Client  */
+.rating-filled{
+    color: #E77C40;
+    
+}
+.rating-no-filled{
+    color: rgb(207, 207, 207);
+}
+.clients-names{
+    color: #23A6F0;
+    font-size: 14px;
+    font-weight: 600;
+}
+.client-title{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin-bottom: 50px;
+}
 /*-----------------------
  Css Style Sheets End 
  ---------------------*/
