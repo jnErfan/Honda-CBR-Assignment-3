@@ -12,7 +12,7 @@
      color: white;
  }
 
- #header-login{
+ #header-login-button{
     background-color: #E76F51;
     color: white;
     padding-top: 7px;
@@ -43,7 +43,9 @@
  }
  /* Header Css End  */
 
-  /* Fetured Bikes Section */
+
+
+  /* Fetured Bikes Section Start */
 .future-bike-title{
     font-size: 48px;
     font-weight: 600;
@@ -67,6 +69,8 @@
 }
 /* Future Bike Section End  */
 
+
+
 /* Happy Client  */
 .rating-filled{
     color: #E77C40;
@@ -89,7 +93,10 @@
 }
 /* happy client End  */
 
-/* Frequently Asked Questions */
+
+
+
+/* Frequently Asked Questions  Start*/
 
 .quetion-title{
     font-size: 40px;
@@ -98,6 +105,13 @@
     color: black;
     margin-bottom: 50px; 
 }
+.accordion-color-fixed{
+    color: #7E848C;
+}
+/* Frequently Asked Questions End*/
+
+
+
 
 /* On Road Price  */
 .road-price{
@@ -107,8 +121,11 @@
     color: black;
     margin-bottom: 50px;   
 }
+/* On Road Price  End*/
 
-/* 5 Most Expensive Bikes */
+
+
+/* 5 Most Expensive Bikes  Start*/
 
 .expensive-bike-title{
     font-size: 40px;
@@ -118,8 +135,12 @@
     margin-bottom: 40px; 
     text-align: center;
 }
+/* 5 Most Expensive Bikes End */
 
-/* Popular Brands  */
+
+
+
+/* Popular Brands Start */
 .popular-brand-section{
     margin-top: 100px;
 }
@@ -128,6 +149,8 @@
     margin-top: 70px;
     margin-bottom: 100px;
 }
+/* Popular Brands  End*/
+
 
 
 /* Footer Start  */
@@ -138,6 +161,9 @@
     color: rgb(136, 136, 136);
     padding-top: 20px;
 }
+/* Footer End  */
+
+
 /*-----------------------
  Css Style Sheets End 
  ---------------------*/
